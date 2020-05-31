@@ -1,0 +1,7 @@
+export CH=$(dirname -- $(readlink -fn -- "$0"))
+
+alias datlink='ln -s `realpath --relative-to=. $CH/data ` .'
+alias srclink='ln -s `realpath --relative-to=. $CH/src ` .'
+
+alias setlink="datlink & srclink"
+                                   

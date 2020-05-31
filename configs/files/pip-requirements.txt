@@ -1,0 +1,13 @@
+umap-learn
+h2o -f http://h2o-release.s3.amazonaws.com/h2o/latest_stable_Py.html
+kedro
+mlflow
+hydra-core
+xeus-python
+ptvsd
+kaggle
+boto3
+awscli
+plotly
+catboost
+pandas-profiling
