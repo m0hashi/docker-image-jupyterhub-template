@@ -3,7 +3,7 @@
 ## how to
 
 1. Set your server FQDN<br>
-open .env and set your server FQDN as JUPYTERHUB_FQDN
+open .env and replace www.example.com with your server FQDN 
 
 2. Run setDotenv.sh
 
